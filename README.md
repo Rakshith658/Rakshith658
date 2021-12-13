@@ -30,7 +30,7 @@ Languages and Tools:
 <br />
 <br />
 <code><img height="20" src="https://img.shields.io/badge/Aws-white?style=for-the-badge&logo=aws&logoColor=4EA94B"></code>
-<code><img height="20" src="https://img.shields.io/badge/Firebase-E10098?style=for-the-badge&logo=firebase&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=F7DF1E"></code>
 
 <br />
 <br />

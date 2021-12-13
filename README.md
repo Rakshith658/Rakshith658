@@ -7,3 +7,9 @@
 - 👯 love to play chess
 - 📫 How to reach me: rakshithkumars1111@gmail.com
 
+Languages and Tools:
+   
+
+  
+
+  

@@ -28,5 +28,11 @@ Languages and Tools:
 <code><img height="20" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></code>
 <br />
 <br />
+<br />
+<code><img height="20" src="https://img.shields.io/badge/Aws-white?style=for-the-badge&logo=aws&logoColor=4EA94B"></code>
+<code><img height="20" src="https://img.shields.io/badge/Firebase-E10098?style=for-the-badge&logo=firebase&logoColor=white"></code>
+
+<br />
+<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshith658">
 <img src="https://github-readme-stats.vercel.app/api?username=Rakshith658">

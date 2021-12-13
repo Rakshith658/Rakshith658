@@ -28,7 +28,6 @@ Languages and Tools:
 <code><img height="20" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></code>
 <br />
 <br />
-<br />
 <code><img height="20" src="https://img.shields.io/badge/AWS-E34F26?style=for-the-badge&logo=aws&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=F7DF1E"></code>
 

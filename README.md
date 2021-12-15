@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning devops tools
 - 👯 love to play chess
 - 📫 How to reach me: rakshithkumars1111@gmail.com
+- looking for the devops and full stack internship 
 
 ### Languages and Tools:
 

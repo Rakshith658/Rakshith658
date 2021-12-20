@@ -1,12 +1,13 @@
 ### Hi there 👋 i am Rakshith Kumar
 
+### full stack developer:
 
 
 - 🔭 I’m currently working in Parkn
-- 🌱 I’m currently learning devops tools
+- 🌱 I’m currently learning AWS
 - 👯 love to play chess
 - 📫 How to reach me: rakshithkumars1111@gmail.com
-- looking for the devops and full stack internship 
+- looking for AWS and full stack internship 
 
 ### Languages and Tools:
 

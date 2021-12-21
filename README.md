@@ -2,8 +2,6 @@
 
 ### full stack developer:
 
-
-- 🔭 I’m currently working in Parkn
 - 🌱 I’m currently learning AWS
 - 👯 love to play chess
 - 📫 How to reach me: rakshithkumars1111@gmail.com

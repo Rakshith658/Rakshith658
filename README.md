@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning AWS
 - 👯 love to play chess
 - 📫 How to reach me: rakshithkumars1111@gmail.com
-- looking for AWS and full stack internship 
-
-### Languages and Tools:
+- good exprence in building the app and good knowledge in tech
+- looking for a startup which provide tech co-founder or good tech role
+- ### Languages and Tools:
 
 <br />
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>

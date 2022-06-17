@@ -2,7 +2,7 @@
 
 ### full stack developer:
 
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning blockchain
 - 👯 love to play chess
 - 📫 How to reach me: rakshithkumars1111@gmail.com
 - good exprence in building the app and good knowledge in tech

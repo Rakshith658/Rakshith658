@@ -1,13 +1,11 @@
-### Hi there 👋 i am Rakshith Kumar
+### Hi there 👋 I am Rakshith Kumar
 
 ### full stack developer:
 
-- 🌱 I’m currently learning blockchain
 - 👯 love to play chess
-- 📫 How to reach me: rakshithkumars1111@gmail.com
-- good exprence in building the app and good knowledge in tech
-- 2 year of exprence in stock market and crypto market ( good in finance)
-- looking for a startup which provide tech co-founder or tech role
+- 📫 How to reach me: rakshithkumars123@gmail.com
+- good experience in building the app and good knowledge of tech
+- 3 years of experience in the stock market
 - ### Languages and Tools:
 
 <br />
